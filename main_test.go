@@ -7,7 +7,7 @@ import (
 
 var (
 	requiredFiles = []string{"README.md", "main.go", "main_test.go", "go.mod"}
-)
+)git
 
 func TestCheckRequiredFiles(t *testing.T) {
 
